@@ -13,9 +13,7 @@ Thanks for reading this.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msafariyan&label=Profile%20views&color=0e75b6&style=flat" alt="msafariyan" /> </p>
 
-- 🔭 I’m currently working on [winvest at narvan startup studio](https://play.google.com/store/apps/details?id=win.vest.android&hl=en_US&gl=US)
-
-- 👨‍💻 All of my projects are available at [https://codeberg.org/Safarian](https://codeberg.org/Safarian) or Here in github
+- 🔭 I’m currently working on [Invex Crypto Exchange](https://invex.ir/)
 
 - 💬 Ask me about **django, redis, postgres, python**
 
